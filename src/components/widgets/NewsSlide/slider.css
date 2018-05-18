@@ -1,0 +1,25 @@
+.fetured_item{
+    margin: auto;
+    position: relative;
+}
+
+.fetured_image{
+ 
+}
+
+.featured_image_singel{
+    width: 80vw;
+    height: 50vh;
+}
+
+.featured_caption{
+    display: block;
+    width: 70vw;
+    padding: 10px;
+    background-color: rgba(0,0,0,.4);
+    text-decoration: none;
+    color: #f0f0f0;
+    position: absolute;
+    bottom: 5px;
+    left: 10px;
+}
